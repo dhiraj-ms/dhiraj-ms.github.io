@@ -18,6 +18,8 @@ Previously I worked at [EXL, India](https://www.exlservice.com/about/contact-us?
 
 My research interests lie at the interface of computer vision and machine learning because of my interdisciplinary background comprising life science, computer science, and mechanical engineering. In the past 3-4 years from my undergraduate to MS, my interest to work in ML+Life Science grew because of projects I completed in various domains from healthcare, sports analytics, agriculture science, mechanical engineering, and finance. I’m very passionate about using Artificial Intelligence to address life science problems.
 
+My CV can be downloaded [here](http://dhiraj-ms.github.io/files/Srivastava_Dhiraj_CV.pdf).
+
 Recognition
 ------
 - [Envisioning 2050 in the Southeast: AI-Driven Innovations in the Agriculture Conference 2022](https://aaes.auburn.edu/ai-driven-innovations-in-agriculture/): Won outstanding research award and prize money of $2000 at the conference organized by the United States Department of Agriculture.
