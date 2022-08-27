@@ -23,7 +23,7 @@ My CV can be downloaded [here](http://dhiraj-ms.github.io/files/Srivastava_Dhira
 Recognition
 ------
 - [Envisioning 2050 in the Southeast: AI-Driven Innovations in the Agriculture Conference 2022](https://aaes.auburn.edu/ai-driven-innovations-in-agriculture/): Won outstanding research award and prize money of $2000 at the conference organized by the United States Department of Agriculture.
-- [75th Annual Southern Weed Science Society (SWSS) of America Conference 2022](https://www.swss.ws/): Won first place award in the poster presentatio
+- [75th Annual Southern Weed Science Society (SWSS) of America Conference 2022](https://www.swss.ws/): Won first place award in the poster presentation.
 - Qualified in Top-6 out of 700 participants for national final round in EXL EQ 2019 machine learning competition and received full-time job offer by EXL. Proposed machine learning based methodologies to minimize the insurance industry loss due to fraud claims along with minimizing False Negatives.
 - Qualified in Top-10 out of 92 teams for national finals in GE Healthcare Precision Hackathon Challenge 2020.  Designed the computer vision model to solve case challenge Revolutionising Healthcare with AI and analytics.
 - Flipkart Online Machine Learning Challenge 2019. Qualified level-2 round.  
