@@ -64,8 +64,8 @@ Unmanned Aerial System-Based Herbicide Spray Applications
 ------
 Weeds are the major pests of agricultural crops and a major concern for sustainable crop production. The recent advances in small Unmanned Aerial Systems (UAS) technologies have opened new opportunities for agricultural systems. In the US, no documented information is available on the efficacy of UAS based broadcast and spot spray applications. 
 <br> <img style="float: left; padding: 10px 10px 10px 10px;" src="https://dhiraj-ms.github.io/images/research10.jpeg" width=300>
-<img style="float: left; padding: 10px 10px 10px 10px;" src="https://dhiraj-ms.github.io/images/research11.png" width=300>
 <img style="float: left; padding: 10px 10px 10px 10px;" src="https://dhiraj-ms.github.io/images/image_6483441.jpg" width=300>
+<img style="float: left; padding: 10px 10px 10px 10px;" src="https://dhiraj-ms.github.io/images/research11.png" width=300>
 
 Therefore, it is important to standardize spray parameters (altitude, speed, volume, herbicide concentration etc.) and generate data to better understand the technology potential. Objective was to determine the minimum spray volume for UAS based herbicide applications and evaluate the efficacy of the UAS spray system using glufosinate in Liberty-Link® Soybean, Corn and Cotton. Achieved 90-100% control of weeds in both broadcast and spot spray.
 
