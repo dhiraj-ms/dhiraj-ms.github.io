@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+<br>
+<img style="float: center; padding: 80px 80px 80px 80px;" src="https://dhiraj-ms.github.io/images/image019.png" width=7000>
+<br>
+
 Hello everyone! I am Dhiraj Srivastava, pursuing double master's degree Master of Engineering in Computer Science and Master of Science in Life Science at the [Virginia Tech, USA](https://vt.edu/). My MS thesis research focuses on developing deep learning models for detecting weeds in crops and predicting yield from high-resolution aerial images under the supervision of [Dr. Vijay Singh](https://www.arec.vaes.vt.edu/arec/eastern-shore/people/vijay-singh.html). I am Graduate Research Assistant at [Eastern Shore Agricultural Research and Extension Center, Virginia Tech](https://www.arec.vaes.vt.edu/arec/eastern-shore.html) where I am involved in several agricultural projects and organizing and leading a weed science research team to build deep learning technologies for weed mapping operations.  
 
 In the summer of 2022, I worked as a machine learning summer research intern in precision agriculture and remote sensing under USDA-ARS Graduate Summer Research Program at [High-Performance Computing Collaboratory, Mississippi State University](https://www.hpc.msstate.edu/) under the guidance of [Dr. Sathish Samiappan](https://scholar.google.com/citations?hl=en&sortby=pubdate&user=7HJlv4IAAAAJ&view_op=list_works) and [Dr. Alessandro Matese](https://www.researchgate.net/profile/Alessandro-Matese). 
@@ -28,7 +32,3 @@ Recognition
 - Qualified in Top-10 out of 92 teams for national finals in GE Healthcare Precision Hackathon Challenge 2020.  Designed the computer vision model to solve case challenge Revolutionising Healthcare with AI and analytics.
 - Flipkart Online Machine Learning Challenge 2019. Qualified level-2 round.  
 - Panasonic Scholarship 2016. I was awarded Panasonic Scholarship in 2016. This scholarship is given to 30 students of IITs by Panasonic India. I was one of the 30 students to get it. This scholarship is given for pursuing Bachelor’s education at IIT.
-
-<br>
-<img style="float: center; padding: 80px 80px 80px 80px;" src="https://dhiraj-ms.github.io/images/image019.png" width=7000>
-<br>
