@@ -16,7 +16,7 @@ I completed my Bachelor's in Mechanical Engineering from [Indian Institute of Te
 
 Previously I worked at [EXL, India](https://www.exlservice.com/) as a Data Scientist in the field of sports analytics for NBA, MLB, and NFL clubs. I also spent a short stint at [Augmenify, India](https://www.augmenify.com/) as a deep learning researcher, and my work was focused on developing deep learning based optical character recognition systems.
 
-My research interests lie at the interface of computer vision and machine learning because of my interdisciplinary background comprising life science, computer science, and mechanical engineering. In the past 3-4 years from my undergraduate to MS, my interest to work in ML+Life Science grew because of projects I completed in various domains from healthcare, sports analytics, agriculture science, mechanical engineering, and finance. I’m very passionate about using Artificial Intelligence to address life science problems.
+My research interests lie at the interface of computer vision and machine learning because of my interdisciplinary background comprising life science, computer science, and mechanical engineering. In the past 3-4 years from my undergraduate to MS, my interest to work in ML+Life Science grew because of projects I completed in various domains from healthcare, sports analytics, agriculture science, mechanical engineering, and finance. I’m very passionate about using Artificial Intelligence to address life science problems <br> <img style="float: left; padding: 10px 10px 10px 10px;" src="https://dhiraj-ms.github.io/images/image017.png" width=300>
 
 My CV can be downloaded [here](http://dhiraj-ms.github.io/files/Srivastava_CV.pdf).
 
