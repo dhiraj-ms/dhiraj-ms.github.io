@@ -18,7 +18,7 @@ Previously I worked at [EXL, India](https://www.exlservice.com/) as a Data Scien
 
 My research interests lie at the interface of computer vision and machine learning because of my interdisciplinary background comprising life science, computer science, and mechanical engineering. In the past 3-4 years from my undergraduate to MS, my interest to work in ML+Life Science grew because of projects I completed in various domains from healthcare, sports analytics, agriculture science, mechanical engineering, and finance. I’m very passionate about using Artificial Intelligence to address life science problems.
 <br>
-<img style="float: center; padding: 10px 10px 10px 10px;" src="https://dhiraj-ms.github.io/images/image018.png" width=350>
+<img style="float: center; padding: 50px 50px 50px 50px;" src="https://dhiraj-ms.github.io/images/image018.png" width=550>
 <br>
 
 My CV can be downloaded [here](http://dhiraj-ms.github.io/files/Srivastava_CV.pdf).
