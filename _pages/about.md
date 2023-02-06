@@ -22,7 +22,7 @@ My CV can be downloaded [here](http://dhiraj-ms.github.io/files/Srivastava_CV.pd
 
 Recognition
 ------
-- [63rd Annual Weed Science Society of America Conference, 2023].(https://wssa.net/current-annual-meeting/): Won first place award  in the poster presentation.
+- [63rd Annual Weed Science Society of America Conference, 2023](https://wssa.net/current-annual-meeting/): Won first place award  in the poster presentation.
 - [Envisioning 2050 in the Southeast: AI-Driven Innovations in the Agriculture Conference 2022](https://aaes.auburn.edu/ai-driven-innovations-in-agriculture/): Won outstanding research award and prize money of $2000 at the conference organized by the United States Department of Agriculture.
 - [75th Annual Southern Weed Science Society (SWSS) of America Conference, 2022](https://www.swss.ws/): Won first place award in the poster presentation.
 - Qualified in Top-6 out of 700 participants for national final round in EXL EQ 2019 machine learning competition and received full-time job offer by EXL. Proposed machine learning based methodologies to minimize the insurance industry loss due to fraud claims along with minimizing False Negatives.
