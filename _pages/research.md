@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 
-Integration of Unmanned Aerial System and Machine Learning Approaches for Identifying Common ragweed in Soybean (MS Thesis)
+Estimating Soybean Crop Yield in Response to Varied Weed Density Using Machine Learning (MS Thesis)
 ------
 Common ragweed (Ambrosia artemissifolia L.) is the major weed species in soybean in the United States which can substantially result in soybean yield loss. Integration of Unmanned Aerial Systems and Deep Learning technologies can help in the reduction of excess usage of herbicides by enhancing site-specific herbicide applications. One of the major challenges in training classification models is the non-availability of quality image data to train supervised models. It is also crucial that training data must be representative of all weather conditions, such as different daylights and precipitations for generalization. More than 100K images of ragweed and soybean at different growth stages were captured using DJI M-300 drone by me.
 <br> <img style="float: left; padding: 10px 10px 10px 10px;" src="https://dhiraj-ms.github.io/images/research1.jpg" width=300>
 <img style="float: left; padding: 10px 10px 10px 10px;" src="https://dhiraj-ms.github.io/images/research2.jpg" width=300>
-I proposed a CNN architecture based on depthwise separable convolution that outperformed the state-of-art transfer learning Big Transfer (BiT) architecture. This model has the potential to be utilized for site-specific operations either with UAS-based low-volume spray applications or ground robots based mechanical control, leading to reduced herbicide usage, and ensuring sustainable crop production. My research won the **outstanding research award** at two conferences organized by United States Department of Agriculture and Southern Weed Science Society of America in 2022. [View Research Poster](https://auburnvirtual.auburn.edu/v/5VjYR5WYqob)
+I proposed a self-supervised learning based architecture to predict the soybean yield impacted by different weed densties. My research won the **outstanding research award** at three conferences organized by AI in Agriculture science, Weed Science Society of America 2023 and Southern Weed Science Society of America in 2022. [View Research Poster](https://auburnvirtual.auburn.edu/v/5VjYR5WYqob)
   
 Neural Network-based High Throughput Field Phenotyping of Horticultural Crops using Hyperspectral UAV Imagery
 ------
